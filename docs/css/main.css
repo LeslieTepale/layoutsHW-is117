@@ -1,0 +1,20 @@
+body{
+    background-color: azure;
+    color: midnightblue;
+    font-family: arial, sans-serif;
+}
+h1{
+    color: darkslategrey;
+    font-family: arial, sans-serif;
+}
+img{
+    float: left;
+    clear: both;
+}
+.img2{
+    float: right;
+}
+.text2{
+    padding: 20px;
+    background-color: aliceblue;
+}
